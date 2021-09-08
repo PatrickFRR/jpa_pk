@@ -1,5 +1,7 @@
-package classes;
+package com.patrickfrr.jpa_pk.classes;
 
+
+import com.patrickfrr.jpa_pk.classes.Aluno;
 
 import javax.persistence.*;
 import java.util.ArrayList;

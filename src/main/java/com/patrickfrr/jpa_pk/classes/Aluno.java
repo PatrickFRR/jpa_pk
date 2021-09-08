@@ -1,4 +1,4 @@
-package classes;
+package com.patrickfrr.jpa_pk.classes;
 
 import javax.persistence.*;
 

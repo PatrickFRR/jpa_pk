@@ -11,7 +11,7 @@ import javax.persistence.criteria.CriteriaQuery;
 import javax.persistence.criteria.Root;
 import java.util.List;
 
-public class executionThree {
+public class ExecutionThree {
     public static void main(String[] args) {
 
         // Dados instanciados utilizados como exemplo
